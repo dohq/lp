@@ -1,0 +1,34 @@
+baseURL = 'https://dohq.dev'
+title = 'dohq profile'
+theme = "hermit-v2"
+languageCode = 'en-us'
+defaultContentLanguageInSubdir = false
+enableEmoji = true
+
+[params.author]
+  name = "dohq"
+  about = "about-dohq"
+
+[params]
+  description = "dohq profile"
+  shareSocial = true
+
+  [[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/dohq"
+
+  [[params.socialLinks]]
+    name = "twitter"
+    url = "https://twitter.com/dohq"
+
+  [[params.socialLinks]]
+    name = "mastodon"
+    url = "https://fedibird.com/@dohq"
+
+  [[params.socialLinks]]
+    name = "misskey"
+    url = "https://misskey.dev/@dohq"
+
+  [[params.socialLinks]]
+    name = "bluesky"
+    url = "https://bsky.app/profile/dohq.dev"
