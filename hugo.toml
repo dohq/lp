@@ -26,6 +26,10 @@ enableEmoji = true
     url = "https://fedibird.com/@dohq"
 
   [[params.socialLinks]]
+    name = "discord"
+    url = "https://discordapp.com/users/371838967533928449"
+
+  [[params.socialLinks]]
     name = "misskey"
     url = "https://misskey.dev/@dohq"
 
