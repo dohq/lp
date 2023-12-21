@@ -1,5 +1,5 @@
 baseURL = 'https://dohq.dev'
-title = 'dohq profile'
+title = "dohq's links"
 theme = "hermit-v2"
 languageCode = 'en-us'
 defaultContentLanguageInSubdir = false
@@ -10,7 +10,7 @@ enableEmoji = true
   about = "about-dohq"
 
 [params]
-  description = "dohq profile"
+  description = "dohq's links"
   shareSocial = true
 
   [[params.socialLinks]]
